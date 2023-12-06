@@ -5,8 +5,7 @@
 
 __**Files and Folder Structure.**__
 
-**Infographics**
-**Printables**
+**Infographics**, **Printables**
 
 
 ## __**Disclaimer**__
