@@ -2,6 +2,7 @@
 
 **This Repository is of all Infographics and Printables ive disned and maked.**
 
+As from the March 1st 2024, the Download Size of this Repo is : 94 MB ( Please Note This Size Can Change At Anytime. )
 
 __**Files and Folder Structure.**__
 
